@@ -1,4 +1,4 @@
-# APS-ECU-3-data-puller
+# APS ECU-3 Data Reader
 
 Quick n dirty script for pulling solar panel data from the APS-ECU-3 unit.
 
